@@ -16,6 +16,6 @@ Analyze customer characteristics to identify target audiences for each treadmill
 
 - Personalize marketing using age, lifestyle, and fitness data.
 
-Colab Notebook:
+For more details on implementation please find below Colab Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17TTzKNy5kuncrfLQMRRiCEF5ste1aet1?usp=sharing)
