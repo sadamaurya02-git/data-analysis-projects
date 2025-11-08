@@ -18,7 +18,7 @@ Leverage SQL to extract actionable insights that improve operational efficiency,
 
 - Regional Focus: Prioritize SP state for investment and growth opportunities.
 
-For more details on implementataion please find below PDF link:
+For more details on implementation please find below PDF link:
 
 [View Analysis Report (PDF)](./Target_SQL_Sadanand_Maurya.pdf)
 
