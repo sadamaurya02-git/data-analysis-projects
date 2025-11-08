@@ -42,6 +42,6 @@ Key skills: EDA, data visualization with Matplotlib and Seaborn, storytelling th
 
 ## 🔗 Access
 All notebooks are hosted on **Google Colab** for easy access and reproducibility.  
-You can open any notebook directly via the links below (to be added once you upload them).
+You can open any notebook directly via readme.md for each business case file https://github.com/sadamaurya02-git/data-analysis-projects/tree/main/Business_Case.
 
 ---
