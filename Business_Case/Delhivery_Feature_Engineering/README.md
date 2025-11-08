@@ -16,6 +16,6 @@ Engineer meaningful features from raw logistics data to improve forecasting, ope
 
 - Leverage festive seasons for short-term sales growth.
 
-**Colab Notebook:**
+For more details on implementation please find below Colab Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xqrYSuYVz8_tEle1qF-Hm8YCu_SFn1Me?usp=sharing)
