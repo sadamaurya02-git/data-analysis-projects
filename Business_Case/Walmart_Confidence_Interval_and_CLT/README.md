@@ -22,6 +22,6 @@ Occupation Segmentation:
 
 - Operational Focus: Stock high-demand items in key regions and offer cashback bundles for City Category A.
   
-For more details on implementataion please find below Colab Notebook:
+For more details on implementation please find below Colab Notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nX1qaPEgvHlnz2dQN-2dOscygqFYYWK6?usp=sharing)
