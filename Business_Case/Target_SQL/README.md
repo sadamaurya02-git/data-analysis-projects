@@ -20,5 +20,5 @@ Leverage SQL to extract actionable insights that improve operational efficiency,
 
 For more details on implementataion please find below PDF link:
 
-[View Analysis Report (PDF)](Target_SQL/Target_SQL_Sadanand_Maurya.pdf)
+[View Analysis Report (PDF)](./Target_SQL_Sadanand_Maurya.pdf)
 
